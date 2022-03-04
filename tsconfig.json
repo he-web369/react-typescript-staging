@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "rootDir": "./",
+    "outDir": "./dist",  // 需要加上
+    "module": "ES6",
+    "noImplicitAny": false,
+    "removeComments": true,
+    "preserveConstEnums": true,
+    "target": "es5",
+    "lib": ["es6", "dom"],
+    "sourceMap": true,
+    "jsx": "react",
+    "moduleResolution": "node",
+    "noImplicitReturns": true,
+    "noImplicitThis": true,
+    "strictNullChecks": true,
+    "esModuleInterop": true,
+  },
+  "exclude":["node_modules","dist"],
+  "include": ["src"]
+}
