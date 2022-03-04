@@ -1,8 +1,8 @@
 /*
  * @Author: hsl
- * @Descripttion:
+ * @Descripttion: state,reducer,effects
  * @Date: 2022-02-25 15:34:14
- * @LastEditTime: 2022-03-04 14:24:33
+ * @LastEditTime: 2022-03-04 14:49:41
  */
 import { Dispatch } from 'react'
 import Request from '../services/request'

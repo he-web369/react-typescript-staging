@@ -1,6 +1,6 @@
 /*
  * @Author: hsl
- * @Descripttion: 请求
+ * @Descripttion: request
  * @Date: 2022-03-04 13:39:24
  * @LastEditTime: 2022-03-04 13:57:14
  */

@@ -2,7 +2,7 @@
  * @Author: hsl
  * @Descripttion: 开发环境打包配置
  * @Date: 2022-02-23 11:48:16
- * @LastEditTime: 2022-03-04 14:16:20
+ * @LastEditTime: 2022-03-04 14:50:14
  */
 const baseConfig = require('./webpack.config')
 const { merge } = require('webpack-merge')

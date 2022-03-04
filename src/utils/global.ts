@@ -1,8 +1,8 @@
 /*
  * @Author: hsl
- * @Descripttion: global
+ * @Descripttion: tree_shanking
  * @Date: 2022-02-23 10:09:37
- * @LastEditTime: 2022-02-24 18:02:50
+ * @LastEditTime: 2022-03-04 14:50:40
  */
 export function cons1(a) {
   console.log(a?.b)
